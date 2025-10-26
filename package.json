@@ -1,0 +1,25 @@
+{
+  "name": "cinemascout",
+  "version": "1.0.0",
+  "description": "Hands-on JavaScript: Consuming REST APIs",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelscl/cinemascout.git"
+  },
+  "keywords": [
+    "javaScript",
+    "theMovieDB",
+    "API"
+  ],
+  "author": "manuelscl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manuelscl/cinemascout/issues"
+  },
+  "homepage": "https://github.com/manuelscl/cinemascout#readme"
+}
